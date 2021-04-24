@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_header">Alarm Clock</string>
+    <string name="main_button_start">Start</string>
+    <string name="al_header">My alarms</string>
+    <string name="ad_repeat">Repeat</string>
+    <string name="ad_active">Active</string>
+    <string name="ad_sunday">Sunday</string>
+    <string name="ad_monday">Monday</string>
+    <string name="ad_tuesday">Tuesday</string>
+    <string name="ad_wednesday">Wednesday</string>
+    <string name="ad_thursday">Thursday</string>
+    <string name="ad_friday">Friday</string>
+    <string name="ad_saturday">Saturday</string>
+    <string name="alarm_details_header">Title</string>
+    <string name="alarm_details_time">Time</string>
+    <string name="alarm_details_save_button">Save</string>
+    <string name="al_add">Add</string>
+    <string name="al_active">Active</string>
+    <string name="ral_active">Active</string>
+    <string name="ral_not_active">Not active</string>
+</resources>

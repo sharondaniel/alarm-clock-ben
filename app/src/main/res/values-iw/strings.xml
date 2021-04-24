@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_header">שעון מעורר</string>
+    <string name="main_button_start">התחל</string>
+    <string name="al_header">השעונים שלי</string>
+    <string name="ad_repeat">חוזר</string>
+    <string name="ad_active">פעיל</string>
+    <string name="ad_sunday">ראשון</string>
+    <string name="ad_monday">שני</string>
+    <string name="ad_tuesday">שלישי</string>
+    <string name="ad_wednesday">רביעי</string>
+    <string name="ad_thursday">חמישי</string>
+    <string name="ad_friday">שישי</string>
+    <string name="ad_saturday">שבת</string>
+    <string name="alarm_details_header">כותרת</string>
+    <string name="alarm_details_time">שעה</string>
+    <string name="alarm_details_save_button">שמור</string>
+    <string name="al_add">הוספה</string>
+    <string name="al_active">פעיל</string>
+    <string name="ral_active">פעיל</string>
+    <string name="ral_not_active">לא פעיל</string>
+</resources>

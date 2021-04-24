@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false"></string>
+    <string name="alarmdbname" translatable="false">ALARM_DB</string>
+    <string name="main_header">Alarm Clock</string>
+    <string name="main_button_start">Start</string>
+    <string name="al_header">My alarms</string>
+    <string name="ad_repeat">Repeat</string>
+    <string name="ad_active">Active</string>
+    <string name="ad_sunday">Sunday</string>
+    <string name="ad_monday">Monday</string>
+    <string name="ad_tuesday">Tuesday</string>
+    <string name="ad_wednesday">Wednesday</string>
+    <string name="ad_thursday">Thursday</string>
+    <string name="ad_friday">Friday</string>
+    <string name="ad_saturday">Saturday</string>
+    <string name="alarm_details_header">Title</string>
+    <string name="alarm_details_time">Time</string>
+    <string name="alarm_details_save_button">Save</string>
+    <string name="mnu_hebrew" translatable="false">עברית</string>
+    <string name="mnu_english" translatable="false">English</string>
+    <string name="LANG_ENGLISH" translatable="false">en</string>
+    <string name="LANG_HEBREW" translatable="false">iw</string>
+    <string name="PREF_DB" translatable="false">AlarmsPref</string>
+    <string name="PREF_APP_LANG" translatable="false">APP_LANGUAGE</string>
+    <string name="LANG_DEFAULT" translatable="false">en</string>
+    <string name="ALARM_DB" translatable="false">AlarmsPref</string>
+    <string name="al_add">Add</string>
+    <string name="al_active">Active</string>
+    <string name="ral_active">Active</string>
+    <string name="ral_not_active">Not active</string>
+</resources>
